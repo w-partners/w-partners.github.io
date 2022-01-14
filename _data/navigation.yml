@@ -1,9 +1,12 @@
 # main links
 main:
+  - title: "Categories"
+    url: /categories/
   - title: "MaiN"
      url: https://w-partners.github.io/
   - title: "WhiteGun.log"
     url: https://velog.io/@pasianus
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
