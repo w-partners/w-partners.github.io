@@ -20,7 +20,7 @@ title                    : "Platform Makers"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Baekgun Suh"
-description              : "An amazing website."
+description              : "White Gun"
 url                      : "https://w-partners.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "White Gun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "C Level Dev"
   location         : "Somewhere"
   email            :
   links:
